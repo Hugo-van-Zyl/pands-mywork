@@ -3,7 +3,7 @@
 # author: Hugo van Zyl
 
 minus = 21-4 #minus values from each other
-print(minus)
+print("21 minus 4 = ",minus)
 
 check = 2==3 #check if values are equal
-print(check)
+print("Is 2 equal to 3 -",check)
